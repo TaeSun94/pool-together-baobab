@@ -1,5 +1,5 @@
 {
-  "name": "pool-together-baobab",
+  "name": "web3klaytn-test-repo",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -8,6 +8,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@klaytn/ethers-ext": "^0.9.4-beta",
+    "ethers": "^6.8.0",
     "next": "13.4.19",
     "react": "18.2.0",
     "react-dom": "18.2.0"
